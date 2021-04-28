@@ -1,4 +1,4 @@
-# MarkS - Python Challenge Day 07VIR -  SlackAdder
+# MarkS - Python Challenge Day 07VIRTEST -  SlackAdder
 
 def integer_list(number_string):
     integer_stripped = [int(x) for x in number_string.split(',')]
